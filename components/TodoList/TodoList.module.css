@@ -1,0 +1,27 @@
+.btn{
+    margin-left: 12px;
+    border-color:#FFA500;
+    height: 25px;
+    font-weight: bolder;
+  }
+  .delete{
+    border-color:#FFA500;
+    height: 25px;
+    font-weight: bolder;
+  }
+.list{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    width: 570px;
+    margin: 24px;
+    padding: 6px;
+    } 
+.list:hover{
+    background: #FFA500;
+    border-radius: 5px;
+          }
+          .close{
+            color: black;
+            text-decoration: line-through;
+          }

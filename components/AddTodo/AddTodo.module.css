@@ -1,0 +1,22 @@
+.addTodoForm{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: stretch;
+    width: 600px;
+    margin-top: 5px;
+   }
+    .btn {
+        margin-left: 12px;
+        color: white;
+        font-weight: bolder;
+        border: 1px solid black;
+        border-radius: 5px;
+        background-color: 	#FF7F50;
+        font-size: 20px;
+    }
+    .input{
+ width: 600px;
+ height: 20px;
+ border: 1px solid black;
+}

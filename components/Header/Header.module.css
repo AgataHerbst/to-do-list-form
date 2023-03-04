@@ -1,0 +1,28 @@
+
+.root{
+    display: flex;
+    justify-content: center;
+    height: 80px;
+    width: 600px;
+    align-items: center;
+    font-size: 35px;
+    color:white;
+    background-color: #FFA500;
+}
+
+.input {
+    display: flex;
+    height: 30px;
+    width: 1000px;
+    margin-top: 24px;
+    }
+
+    .save{
+        margin-left: 12px;
+        color: white;
+        font-weight: bolder;
+        border: 1px solid black;
+        border-radius: 5px;
+        background-color: 	#FF7F50;
+        }  
+        
